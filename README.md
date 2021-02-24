@@ -14,3 +14,6 @@ Running steps:
 1. roslaunch kinect2_bridge kinect2_bridge.launch
 
 2. rosrun rgbd_test rgbd_test
+
+
+get skeleton info
