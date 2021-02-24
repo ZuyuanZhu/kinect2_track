@@ -4,7 +4,7 @@ Use kinect2 to track object in ROS.
 
 
 add some instructions later
-=======
+
 1. Install open source drivers for the Kinect2. libfreenect2: https://github.com/OpenKinect/libfreenect2
 
 2. Install Kinect2 Bridge. IAI Kinect2: https://github.com/code-iai/iai_kinect2
